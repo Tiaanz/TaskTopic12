@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName  "Restricted access "
+AuthUserFile  "/app-tian/web/.htpasswd"
+Require valid-user
