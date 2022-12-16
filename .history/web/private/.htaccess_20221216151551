@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName  "Restricted access "
-AuthUserFile  "/app/web.htpasswd "
-Require valid-user
